@@ -21,4 +21,4 @@ Porque cada dato se guarda una sola vez. Por ejemplo, el nombre de un autor no s
 
 ## Diagrama
 
-[Abrir diagrama en draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsofiaperez-gi%2FDiagrama_Reto1%2Fmain%2Fdiagrama_er_libros%2520%25284%2529.drawio)
+[Abrir y editar el diagrama en draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsofiaperez-gi%2FDiagrama_Reto1%2Fmain%2Fdiagrama_er_libros.drawio)
