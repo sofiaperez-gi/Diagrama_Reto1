@@ -18,3 +18,7 @@ Por eso en el diagrama aparece `1` del lado de `Autores` y `Editores`, y `N` (mu
 ## ¿Por qué está bien organizado?
 
 Porque cada dato se guarda una sola vez. Por ejemplo, el nombre de un autor no se repite en cada uno de sus libros. Solo se guarda en la tabla `Autores` y los libros lo “señalan” con su número. Así la información es más ordenada y fácil de actualizar, y eso es lo que se busca con la Tercera Forma Normal (3FN).
+
+## Diagrama
+
+[Abrir diagrama en draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsofiaperez-gi%2FDiagrama_Reto1%2Fmain%2Fdiagrama_er_libros%2520%25284%2529.drawio)
